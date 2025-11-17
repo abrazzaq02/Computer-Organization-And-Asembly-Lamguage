@@ -1,5 +1,6 @@
 **Computer Organization & Assembly Language**
-Classwork • Lab Work • Projects
+
+*Classwork • Lab Work • Projects*
 
 This repository contains structured coursework developed for the Computer Organization and Assembly Language module. It includes class exercises, laboratory tasks, and project implementations designed to reinforce core concepts of computer architecture and low-level programming.
 
