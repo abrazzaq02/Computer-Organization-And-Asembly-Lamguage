@@ -16,14 +16,12 @@ Low-level programming using Assembly Language
 
 Understanding CPU operations, memory structure, and instruction execution
 
-Applying theoretical knowledge through hands-on lab work and projects
-
 Repository Structure
 /Classwork
     Contains lecture exercises, example programs, and practice tasks.
 
 /Labs
-    Includes all lab assignments with source code and required documentation.
+    Includes all lab assignments with source code 
 
 /Projects
     Features major programming assignments and extended coursework projects.
